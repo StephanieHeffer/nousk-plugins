@@ -5,7 +5,7 @@ This repository contains a collection of WordPress plugins developed to support 
 
 Each plugin is designed with a practical approach, focusing on clarity, usability, and alignment with WordPress standards.
 
-# Plugins included:
+**Plugins included:**
 - Nousk WP SafeCheck: Security checklist with technical feedback
 - Nousk Post Duplicator: Duplicate posts, pages, and custom post types
 - Nousk CPT Manager: Create and manage custom post types via admin
